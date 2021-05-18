@@ -17,6 +17,8 @@ header{
 	min-height: 40px;
 	border-radius: .8rem;
 	width: 1200px;
+	margin-left: 50px;
+	margin-right: 50px;
 	border-style: solid;
 	border-color: black;
 	border-width: 3px;
@@ -59,12 +61,11 @@ header nav{
 
 
 .doboz{
-	
 	color: #422D59;
 	text-align: center;
 	background-color:  #422D59;
-	/*margin: 0px 70px 0px 70px;*/
-	width: 1100px;
+	margin: 0px 70px 0px 70px;
+	width: 1160px;
 	border-style: solid;
 	border-color: black;
 	border-width: 3px;
@@ -73,7 +74,6 @@ header nav{
 
 }
 .dobozka {
-	/*float:left;*/
 	display: inline-block;
 	width: 60%;
 	max-width: 400px;
@@ -164,6 +164,7 @@ footer{
 	padding: 10px;
 	min-height: 70px;
 	border-radius: .8rem;
+	margin: 0px 50px 0px 50px;
 	width: 1200px;
 	border-style: solid;
 	border-color: black;
