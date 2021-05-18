@@ -17,7 +17,7 @@ header{
 	min-height: 40px;
 	border-radius: .8rem;
 	max-width: 90%;
-	min-width: 1300px;
+	min-width: 1500px;
 	margin-left: 50px;
 	margin-right: 50px;
 	border-style: solid;
@@ -67,7 +67,7 @@ header nav{
 	background-color:  #422D59;
 	margin: 0px 70px 0px 70px;
 	max-width: 85%;
-	min-width: 1260px;
+	min-width: 1460px;
 	border-style: solid;
 	border-color: black;
 	border-width: 3px;
@@ -168,7 +168,7 @@ footer{
 	border-radius: .8rem;
 	margin: 0px 50px 0px 50px;
 	max-width: 90%;
-	min-width: 1300px;
+	min-width: 1500px;
 	border-style: solid;
 	border-color: black;
 	border-width: 3px;
