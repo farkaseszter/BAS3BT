@@ -79,6 +79,7 @@ header nav{
 .dobozka {
 	display: inline-block;
 	width: 27%;
+	min-width: 400px;
 	text-align: left;
 	vertical-align: top;
 	background-color: #fff0bf ;
@@ -107,6 +108,7 @@ header nav{
 .doboz2{
 	display: inline-block;
 	width: 22%;
+	min-width: 300px;
 	text-align: center;
 	vertical-align: top;
 	background-color: #fff0bf;
