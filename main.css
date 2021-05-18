@@ -12,6 +12,7 @@ body{
 	
 }
 header{
+	display: inline-block;
 	background: #422D59; 
 	padding-top: 10px;
 	min-height: 40px;
